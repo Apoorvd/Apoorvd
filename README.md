@@ -25,13 +25,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Azure, NodeJS, C#, Angular, .Net, Microsoft SQL**
+- 🔭 I’m currently working on **Azure, NodeJS, Golang, C#, Angular, .Net, Microsoft SQL**
 
 - 🌱 I’m currently learning **to scale GraphQL API to make it consumable.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
-- 💬 Ask me about **Azure, NodeJS, C#, Angular, .Net, Microsoft SQL**
+- 💬 Ask me about **Azure, NodeJS, Golang, C#, Angular, .Net, Microsoft SQL**
 
 - 📫 Feel free to reach me out **d123apoorv@gmail.com, d123apoorv@hotmail.com**
 
@@ -55,7 +55,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,c,cpp,cs,angular,visualstudio,gcp,graphql,discord,docker,dotnet,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,azure,bootstrap,c,cpp,cs,angular,visualstudio,gcp,graphql,go,discord,docker,dotnet,firebase,github,html,idea,java,js,kotlin,linux,md,materialui,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode&perline=14" />
   </a>
 </p>
 
