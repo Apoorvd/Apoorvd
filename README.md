@@ -41,12 +41,6 @@
   </a>
 </p>
 
-<!--- snake -->
-<div align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
-</div> 
-
 <p align="center">
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Apoorvd&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true&cache_seconds=1800"/>
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Apoorvd&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
